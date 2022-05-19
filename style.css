@@ -1,0 +1,166 @@
+body{
+    margin-top: 20px;
+    padding: 0%;
+    background-color: navy;
+    font-family: 'Roboto Serif', serif;
+}
+
+.a{
+    display: flex;
+    background-color: navy;
+    flex-direction: row;
+     justify-content: center;
+    align-items: center;
+    align-content: center;
+
+}
+
+.b{
+    display: flex;
+    flex-direction: column;
+    width: 28;
+    height: 800px;
+ 
+    background-color: #030E21;
+    border-radius: 25px;
+  
+}
+
+.c{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    height: 50px;
+    border-radius: 30px;
+    background-color: grey;
+    margin: 10px;
+    margin-top: 20px;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: center;
+
+}
+
+#itemc ion-icon{
+    font-size: 20px;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+button{
+     width: 70px;
+     height: 40px;
+     background-color: white;
+     border: none;
+     border: 25px;
+     border-radius: 15px;
+ }
+
+
+.d{
+    display: flex;
+    width: 100%;
+    height: 200px;
+    flex-direction: row;
+
+}
+
+.cont{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 150px;
+    background-color: aliceblue;
+    background-image: linear-gradient(to  bottom right, #9371ea, #c549bc, #d7834f);
+    border-radius: 25px;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: center;
+    margin: 10px;
+}
+
+.boxd{
+
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    height: 140px;
+   
+   
+    margin-left: 20px;
+}
+   
+.imaged img{
+    margin-left: -135px;
+    margin-top: -20px;
+    width:150px ;
+   height: 200px;
+}
+
+.e{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    color: white;
+}   
+.sectione{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+
+}
+
+.cube{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: mintcream;
+}
+#circles{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: grey;
+    margin: 5px;
+}
+
+.f{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}   
+.fcont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: white;
+
+}
+
+#contf img{
+    width: 140px;
+    height: 130px;
+}
+
+#contf{
+    display: flex;
+    flex-direction: column;
+    margin-left:20px ;
+}
+
+.g{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.g ion-icon{
+    font-size: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: white;
+}
